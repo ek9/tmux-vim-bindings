@@ -104,7 +104,7 @@ main() {
     tmux unbind-key t        ; tmux bind-key t        new-window
 
     # Alt-` toggle last window
-    tmux unbind-key M-`      ; tmux bind-key -n M-`   last-window
+    tmux unbind-key M-\`      ; tmux bind-key -n M-\`   last-window
 
 
     ## Select Window
