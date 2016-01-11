@@ -56,8 +56,8 @@ main() {
 ### Session Hotkeys
 ###
     # <Alt+e> list sessions
-    tmux bind-key -n M-e    list-sessions
-    tmux bind-key e list-sessions
+    tmux bind-key -n M-e    choose-session
+    tmux bind-key e choose-session
 
     # <Alt+t> rename session
     tmux bind-key -n M-t  command-prompt -I \#S "rename-session '%%'"
