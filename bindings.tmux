@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-# tmux-vim-bindings
+## ek9/tmux-vim-bindings - https://github.com/ek9/tmux-vim-bindings
+## tmux vim-compatible bindings
+
+## Prefix
 # Sets <Alt+a> key as prefix. While configuring keybinds, you can rely on <Alt>
 # key to execute most commands (e.g. window switching).
 
@@ -8,6 +11,7 @@
 # M-d       <Alt+d> (Meta key + d)
 # C         prefix (<Alt+a>)
 # C-d       prefix + d (<Alt+a d>)
+
 main() {
 
 ### Setup
