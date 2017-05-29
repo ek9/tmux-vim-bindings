@@ -63,7 +63,7 @@ Minor `tmux` key optimizations:
 
 ## Authors
 
-Copyright (c) 2015-2016 ek9 <dev@ek9.co> (https://ek9.co).
+Copyright (c) 2015-2017 ek9 <dev@ek9.co> (https://ek9.co).
 
 ## License
 
