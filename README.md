@@ -5,7 +5,9 @@ tmux-vim-bindings
 as a TPM plugin. This plugin is compatible with [ek9/tmux-config][1] and
 [ek9/vim-config][2].
 
-**Note!** For an example config please check [tmux.conf in ek9/dotfiles][10].
+**Note!** For an example config please check [tmux.conf in ek9/shell-config][9].
+
+Part of [ek9/dotfiles][10] collection.
 
 ## Requirements
 
@@ -74,4 +76,5 @@ Licensed under [MIT License](LICENSE).
 [2]: https://github.com/ek9/vim-config
 [3]: https://github.com/tmux/tmux
 [4]: https://github.com/tmux-plugins/tpm
-[10]: https://github.com/ek9/dotfiles/blob/master/.tmux.conf
+[9]: https://github.com/ek9/shell-config/blob/master/.tmux.conf
+[10]: https://github.com/ek9/dotfiles
